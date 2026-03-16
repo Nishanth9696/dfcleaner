@@ -1,4 +1,4 @@
-# **dfcleaner**
+# **dfcleanerx**
 
 **dfcleaner** is a simple Python library to clean Pandas DataFrames quickly.
 
