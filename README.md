@@ -8,9 +8,8 @@
 - Fill missing values
 
 **Installation**
-```
+
 pip install dfcleaner
-```
 
 **Example**
 
